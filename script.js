@@ -57,7 +57,7 @@ function displayUsagi() {
 }
 
 // Function to display the usagi-dance.gif
-function displayCatHeart() {
+function displayUsagiDance() {
     // Clear existing content in the image container
     document.getElementById('image-container').innerHTML = '';
     // Get the container where the image will be displayed
@@ -78,4 +78,3 @@ function displayCatHeart() {
 
 // Display the usagi.gif initially
 displayUsagi();
-Function: show the usagi.dance.gif
