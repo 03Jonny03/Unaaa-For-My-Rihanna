@@ -78,3 +78,4 @@ function displayCatHeart() {
 
 // Display the usagi.gif initially
 displayUsagi();
+Function: show the usagi.dance.gif
